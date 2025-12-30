@@ -1,0 +1,205 @@
+{
+   "peliculas": [
+    {
+        "titulo": "Gigante De Hierro",
+        "anio": 1999,
+        "descripcion": "Un malévolo agente gubernamental amenaza con destruir la amistad entre un chico y un robot alienígena gigante en Maine en 1957.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/inception.jpg",
+        "url": "https://www.imdb.com/title/tt1375666/",
+        "trailer": "https://youtu.be/Xb3scEyoTXM?si=RundUrtkERsnhoYR",
+        "pelicula": "https://ia601708.us.archive.org/10/items/the-iron-giant-1999-1080-p-castellano-ver-peliculas-online.org/The%20Iron%20Giant%20%281999%29%20%5B1080P%5D%5BCastellano%5D%5BVerPeliculasOnline.org%5D.mp4",
+        "image": "https://m.media-amazon.com/images/I/9141LT7ExxL.jpg"
+    },
+    {
+        "titulo": "Scott Pilgrim Vs The World",
+        "anio": 2010,
+        "descripcion": "Después de conocer a la mujer de sus sueños, Scott Pilgrim debe enfrentarse a un ejército de las exparejas de ella que quieren deshacerse de él.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/matrix.jpg",
+        "url": "https://www.imdb.com/title/tt0133093/",
+        "trailer": "https://youtu.be/Wc7U1Sq0jxA?si=s0L81MFc_Qv30cPc",
+        "pelicula": "https://ia800706.us.archive.org/7/items/yo-kai-watch-la-pelicula-1-latino/Scott%20Pilgrim%20Vs%20The%20World.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTA5ZWMwNmYtNWI1ZS00NDRlLTkxNzktMzdhZDU2ZDhjNDJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "titulo": "Wallace Y Gromit La Venganza Se Sirve Con Plumas",
+        "anio": 2024,
+        "descripcion": "Un grupo de exploradores espaciales viaja a través de un agujero de gusano en un intento de asegurar la supervivencia de la humanidad.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/interstellar.jpg",
+        "url": "https://www.imdb.com/title/tt0816692/",
+        "trailer": "https://youtu.be/KYRR-QllrPw?si=N0V1H3-fPqwptr8z",
+        "pelicula": "https://ia800706.us.archive.org/7/items/yo-kai-watch-la-pelicula-1-latino/Wallace%20y%20Gromit%20La%20venganza%20se%20sirve%20con%20plumas.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2MxNDMwMTktZTMxYS00N2JmLTk5NmItNGMzNDcyYzFjZDRiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "titulo": "Enredados",
+        "anio": 2011,
+        "descripcion": "Rapunzel, quien fue confinada a una torre cuando era pequeña, desea salir al mundo exterior. Cuando el ladrón más buscado del reino, Flynn Rider, se esconde en la torre, la adolescente decide hacer un trato con él.",
+        "imagen": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/79/96/30/19541005.jpg",
+        "url": "https://www.imdb.com/title/tt0137523/",
+        "trailer": "https://youtu.be/ee3XOCH-pok?si=aE29StyzrgYej177",
+        "pelicula": "https://dn720409.ca.archive.org/0/items/peliculas_202102/ENREDADOS.mp4",
+        "image": "https://es.web.img2.acsta.net/c_310_420/medias/nmedia/18/79/96/30/19541005.jpg"
+    },
+    {
+        "titulo": "Greenland El Ultimo Refugio",
+        "anio": 1994,
+        "descripcion": "Las vidas de dos sicarios, un boxeador, la esposa de un gánster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/pulp_fiction.jpg",
+        "url": "https://www.imdb.com/title/tt0110912/",
+        "trailer": "https://youtu.be/OpxQ1zZYtNg?si=4fo42gpjswLgiEwh",
+        "pelicula": "https://dn720409.ca.archive.org/0/items/peliculas_202102/%20Greenland-%20El%20%C3%BAltimo%20refugio.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjVhYzkwOGEtOTk0ZS00ZjllLWE5YzItODJhYTJhOTIwY2IyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "titulo": "Avatar: El Camino del Agua",
+        "anio": 2022,
+        "descripcion": "Jake Sully y Ney'tiri han formado una familia y hacen todo lo posible por permanecer juntos. Sin embargo, deben abandonar su hogar y explorar las regiones de Pandora cuando una antigua amenaza reaparece.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/godfather.jpg",
+        "url": "https://www.imdb.com/title/tt0068646/",
+        "trailer": "https://youtu.be/bDFKIs4v0B4?si=sMbkMMviyn0O21xx",
+        "pelicula": "https://dn721908.ca.archive.org/0/items/linkmultimediacine/Avatar%202%20el%20camino%20del%20agua.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmU1ZDY2MTMtYTBhZi00MTk3LTlmNzEtYzc1ZTQ3MjRkNDFjXkEyXkFqcGdeQXZ3ZXNsZXk@._V1_.jpg"
+    },
+    {
+        "titulo": "Jurassic World: Dominio",
+        "anio": 2022,
+        "descripcion": "Dos hombres encarcelados unen lazos durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/shawshank_redemption.jpg",
+        "url": "https://www.imdb.com/title/tt0111161/",
+        "trailer": "https://youtu.be/9m9yRauMJIQ?si=O_IgOMA_Xgf8Fa9a",
+        "pelicula": "https://dn721908.ca.archive.org/0/items/linkmultimediacine/Jurassic%20World%20Dominion.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGExMWU2NWMtNzczYi00NjQ4LTk2YzctZGZkYmRmMDdhMjllXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "titulo": "Thor: Amor y trueno",
+        "anio": 1994,
+        "descripcion": "Thor está buscando la paz interior, pero la irrupción de Gorr, el asesino de dioses, le obliga a volver al combate. Thor recluta a la Reina Valkiria, Korg y su exnovia, Jane Foster, para que lo ayuden a evitar la extinción de los dioses.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/forrest_gump.jpg",
+        "url": "https://www.imdb.com/title/tt0109830/",
+        "pelicula": "https://dn721908.ca.archive.org/0/items/linkmultimediacine/Thor%20Love%20and%20Thunder.mp4",
+        "trailer": "https://youtu.be/Go8nTmfrQd8?si=s5HyBIP3uok0QDsH",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjRiMDhiZjQtNjk5Yi00ZDcwLTkyYTEtMDc1NjdmNjFhNGIzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "titulo": "Volver al Futuro III",
+        "anio": 2008,
+        "descripcion": "Marty McFly sigue en 1955 y Doc ha retrocedido al año 1885, la época del salvaje oeste. Marty recibe una carta de Doc en la que le informa de que la máquina del tiempo está averiada y no puede volver al presente, pero que no le importa seguir en el pasado. Sin embargo, Marty descubre una tumba en la que lee que Doc murió en 1885 y decide ir a rescatar a su amigo.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/dark_knight.jpg",
+        "trailer":"https://youtu.be/WmBX7CA-AAc?si=waPJhimsoqRox6GS",
+        "pelicula": "https://dn721908.ca.archive.org/0/items/linkmultimediacine/Volver-al-futuro-3.mp4",
+        "url": "https://m.media-amazon.com/images/M/MV5BMzI1Yzk2YTUtYjJhZC00NTZiLWI5YTUtNzQ2ZjA1ODQ3NTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzI1Yzk2YTUtYjJhZC00NTZiLWI5YTUtNzQ2ZjA1ODQ3NTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "titulo": "Muppets 2: Los más buscados",
+        "anio": 2014,
+        "descripcion": "Los Muppets realizan una gira internacional y se involucran en un crimen planeado por una red contra la Rana René.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/schindlers_list.jpg",
+        "url": "https://www.imdb.com/title/tt0108052/",
+        "trailer":"https://youtu.be/cfaPs34rB1g?si=J3YA8oqcow2C1yJc",
+        "pelicula":"https://ia600908.us.archive.org/14/items/muppets.-most.-wanted.-2014.bluray-latino-e-ingles-subt_202508/Muppets.Most.Wanted.2014.bluray-latino-e-ingles-subt.mp4",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/cd7012c763051fe34251f2c71a6036d7f600841f6b62370eefaefafe767f0edc.jpg"
+    },
+    {
+        "titulo": "Sonic 3: la película",
+        "anio": 2024,
+        "descripcion": "Sonic, Knuckles y Tails se vuelven a unir para luchar contra Shadow, un nuevo y misterioso enemigo con poderes nunca antes vistos. Al verse superados por Shadow, buscan una alianza inesperada para detenerlo y proteger el planeta.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/lotr_return_of_the_king.jpg",
+        "url": "https://www.imdb.com/title/tt0167260/",
+        "pelicula":"https://ia800707.us.archive.org/14/items/plankton_202503/Sonic%203%20La%20pelicula%20Espa%C3%B1ol%20Latino.mp4",
+        "trailer": "https://youtu.be/ySkQCd7UOhk?si=PPbM-h-MOG3QdMQd",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzMxOTYyY2YtNzNlMy00MGEwLTg0YjUtODAwNjgyNWFmZDIwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "titulo": "Una película de Minecraft",
+        "anio": 2025,
+        "descripcion": "Cuatro inadaptados son arrastrados por un portal al Overworld, un misterioso lugar que se nutre de la imaginación. Para volver a casa, tendrán que dominar el terreno mientras se embarcan en una búsqueda con un artesano llamado Steve.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/empire_strikes_back.jpg",
+        "url": "https://www.imdb.com/title/tt0080684/",
+        "trailer": "https://youtu.be/yxrjSE8XddA?si=dxxRAqLuKXng9rls",
+        "pelicula": "https://ia800200.us.archive.org/2/items/una-pelicula-de-minecraft/una%20pelicula%20de%20minecraft.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzFjMzNjOTktNDBlNy00YWZhLWExYTctZDcxNDA4OWVhOTJjXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "titulo": "El increíble castillo vagabundo",
+        "anio": 2004,
+        "descripcion": "Después de que una bruja la transforma en una anciana, una fabricante de sombreros busca refugio en la casa ambulante de un mago muy peculiar.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/silence_of_the_lambs.jpg",
+        "url": "https://www.imdb.com/title/tt0102926/",
+        "trailer":"https://youtu.be/TioZt2aBZVE?si=hI5JgtjKZ0yWR7z9",
+        "pelicula": "https://dn710001.ca.archive.org/0/items/el-castillo-ambulante/el%20castillo%20ambulante.mp4",
+        "image": "https://anterior.mrbooks.com/mrbooks/portadas/9788416858781.webp"
+    },
+    {
+        "titulo": "Astro Boy",
+        "anio": 2009,
+        "descripcion": "Después de descubrir que sus amigos y familiares están en peligro, un niño robótico utiliza sus increíbles poderes y regresa a Ciudad Metro.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/seven.jpg",
+        "url": "https://www.imdb.com/title/tt0114369/",
+        "trailer": "https://youtu.be/2V36w247d9k?si=EUQYrIayiw1Uzby9",
+        "pelicula": "https://dn721807.ca.archive.org/0/items/astro-boy_202307/Astro%20boy%20%28-%29.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI5NTEwNTcxMl5BMl5BanBnXkFtZTcwMDEyMTE4Mg@@._V1_.jpg"
+    },
+    {
+        "titulo": "Jumanji: En la selva",
+        "anio": 2017,
+        "descripcion": "Cuatro adolescentes encuentran un viejo videojuego que los absorbe y los transporta a una selva peligrosa, donde se convierten en personajes adultos y tienen que ir superando pruebas terribles para terminar el juego y regresar al mundo real.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/gladiator.jpg",
+        "url": "https://www.imdb.com/title/tt0172495/",
+        "pelicula":"https://ia801901.us.archive.org/29/items/jumanji.mp4/jumanji.mp4.mp4",
+        "trailer": "https://youtu.be/leIrosWRbYQ?si=1LUAPhlqCQ6BAjRX",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/7307d301458c1388389a437d4f33754f6ef7163ec4af963daddcb25091b29e4e.jpg"
+    },
+    {
+        "titulo": "Bolt: Un perro fuera de serie",
+        "anio": 2008,
+        "descripcion": "Pensando que él tiene superpoderes de verdad, una estrella canina de un exitoso programa de televisión viaje a través del país, desde Hollywood hasta Nueva York, para rescatar a su dueña, la otra estrella de su espectáculo televisivo.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/prestige.jpg",
+        "url": "https://www.imdb.com/title/tt0482571/",
+        "trailer": "https://youtu.be/9np5OHor-uQ?si=LM_yMRlsQpuA2FR6",
+        "pelicula": "https://ia600709.us.archive.org/5/items/bolt-latino/bolt-latino.mp4",
+        "image": "https://es.web.img3.acsta.net/medias/nmedia/18/67/28/03/20317041.jpg"
+    },
+    {
+        "titulo": "Venom",
+        "anio": 2018,
+        "descripcion": "El periodista Eddie Brock está investigando a Carlton Drake, el célebre fundador de Life Foundation. Brock establece una simbiosis con un ente alienígena que le ofrece superpoderes, pero el ser se apodera de su personalidad y lo vuelve perverso.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/memento.jpg",
+        "url": "https://www.imdb.com/title/tt0209144/",
+        "pelicula": "https://dn720409.ca.archive.org/0/items/venom_20220317/Venom.mp4",
+        "trailer": "https://youtu.be/nZ8FXOpcXSs?si=mLQHHJQXWqNd4iwb",
+        "image": "https://es.web.img3.acsta.net/pictures/18/09/18/16/30/4389164.jpg"
+    },
+    {
+        "titulo": "Una noche en el museo 3: el secreto de la tumba",
+        "anio": 2014,
+        "descripcion": "Luego de descubrir que la magia del museo está desapareciendo, el vigilante Larry Daley va al Museo Británico en Londres para salvar a sus amigos una vez más.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/departed.jpg",
+        "url": "https://www.imdb.com/title/tt0407887/",
+        "trailer": "https://youtu.be/WlCerYBbdHM?si=BtG7MRNRr4yzC-c7",
+        "pelicula": "https://ia600709.us.archive.org/12/items/una-noche-en-el-museo-3_202505/Una%20noche%20en%20el%20museo%203.mp4",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGQ0MzUzZWYtMzhiNy00NTllLWJmNGMtY2YzYmQ5ZWU5NTliXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "titulo": "Bad Boys para siempre",
+        "anio": 2014,
+        "descripcion": "Los veteranos agentes Mike Lowery y Marcus Burnett vuelven a colaborar para detener a Armando Armas, el violento líder de un cartel de la droga afincado en Miami. En esta ocasión, los apoya el equipo AMMO, un grupo de élite del Departamento de Policía de Miami.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/whiplash.jpg",
+        "trailer": "https://youtu.be/bbqWBZEjSO8?si=iyK_wyE1sEbMpLIr",
+        "pelicula": "https://dn710002.ca.archive.org/0/items/pack-5_202008/Bad%20Boys%20for%20life.mp4",
+        "url": "https://www.imdb.com/title/tt2582802/",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzMwYWVjYzMtNmNiMS00YmI3LWIxNDYtYTQ5MTZkMDA1ZGQwXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+        "titulo": "Dumbo",
+        "anio": 2019,
+        "descripcion": "El dueño de un circo en aprietos contrata a un hombre y sus dos hijos para cuidar de un elefante recién nacido que puede volar, que pronto se convierte en la atracción principal que revitaliza al circo.",
+        "imagen": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-peliculas/lion_king.jpg",
+        "url": "https://www.imdb.com/title/tt0110357/",
+        "trailer": "https://youtu.be/ocWpGdITSR4?si=AbiU9H7g5v-evTIL",
+        "pelicula": "https://dn710002.ca.archive.org/0/items/pack-5_202008/Dumbo.mp4",
+        "image": "https://es.web.img3.acsta.net/pictures/19/01/22/16/26/2486964.jpg"
+    }
+]
+
+}
