@@ -53,6 +53,10 @@ class _PerfilScreenState extends State<PerfilScreen> {
 
   String? fotoUrl;
   String? nombre;
+  String? telefono;
+  String? genero;
+
+  final TextEditingController correoController = TextEditingController();
 
   @override
   void initState() {
@@ -72,9 +76,40 @@ class _PerfilScreenState extends State<PerfilScreen> {
       setState(() {
         fotoUrl = data['foto'];
         nombre = data['usuario'];
+        telefono = data['telefono'];
+        genero = data['genero'];
+        correoController.text = user.email ?? '';
       });
     }
   }
+
+  Future<void> actualizarCorreo() async {
+  final user = FirebaseAuth.instance.currentUser;
+  if (user == null) return;
+
+  try {
+    final nuevoCorreo = correoController.text.trim();
+
+    await user.verifyBeforeUpdateEmail(nuevoCorreo);
+
+    await FirebaseDatabase.instance
+        .ref('usuarios/${user.uid}/correo')
+        .set(nuevoCorreo);
+
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text(
+          'Se envió un correo de verificación. Confírmalo para cambiar el email.',
+        ),
+      ),
+    );
+  } on FirebaseAuthException catch (e) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text(e.message ?? 'Error al actualizar correo')),
+    );
+  }
+}
+
 
   @override
   Widget build(BuildContext context) {
@@ -128,6 +163,54 @@ class _PerfilScreenState extends State<PerfilScreen> {
             Text(
               user?.email ?? 'Sin correo',
               style: const TextStyle(color: Colors.white70, fontSize: 16),
+            ),
+
+            const SizedBox(height: 12),
+
+            /// TELÉFONO
+            Text(
+              '📞 ${telefono ?? "No registrado"}',
+              style: const TextStyle(color: Colors.white70, fontSize: 16),
+            ),
+
+            const SizedBox(height: 6),
+
+            /// GÉNERO
+            Text(
+              '🚻 ${genero ?? "No definido"}',
+              style: const TextStyle(color: Colors.white70, fontSize: 16),
+            ),
+
+            const SizedBox(height: 30),
+
+            /// EDITAR CORREO
+            TextField(
+              controller: correoController,
+              style: const TextStyle(color: Colors.white),
+              decoration: InputDecoration(
+                labelText: 'Actualizar correo',
+                labelStyle: const TextStyle(color: Colors.white70),
+                filled: true,
+                fillColor: Colors.white10,
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(12),
+                  borderSide: BorderSide.none,
+                ),
+              ),
+            ),
+
+            const SizedBox(height: 12),
+
+            SizedBox(
+              width: double.infinity,
+              height: 48,
+              child: ElevatedButton(
+                onPressed: actualizarCorreo,
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: const Color(0xFF6C4AB6),
+                ),
+                child: const Text('Guardar correo'),
+              ),
             ),
 
             const Spacer(),
